@@ -15,7 +15,7 @@
 
 <!-- About me -->
 <p>
-I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG iTech 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-world problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I’m currently learning **[System Design](https://roadmap.sh/system-design)** and working on Machine Learning 🤓.
+I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG iTech 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-world problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
 </p>
 
 <!-- Personal Stuffs -->
@@ -23,32 +23,21 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG i
 
 - 👨🏽‍💻 I’m currently working on something cool 😉
 
-- 🌱 I’m constantly learning something interesting! 
+- 🌱 I’m constantly learning something interesting!
+
+- I’m currently learning **[System Design](https://roadmap.sh/system-design)** and working on Machine Learning 🤓
 
 - 💬 **[Ask me anything](https://linktr.ee/srinivasa_pradeep)** ! I am happy to help.
 
-<!-- Connect with me -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://linkedin.com/in/anbuchelvank" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
-<a href="https://instagram.com/anbuchelvan_24" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
-</p>
-
-<br>
-
 <div align="center">
-  <a href="mailto:chijiokeokorji@gmail.com">
+  <a href="mailto:sspradeep2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/chijiokeokorji" target="_blank">
+  <a href="https://www.linkedin.com/in/srinivasa-pradeep-s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://medium.com/@chijiokeokorji" target="_blank">
+  <a href="https://medium.com/@writtenbysrini" target="_blank">
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://codepen.io/chijiokeokorji" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-1e1f26?style=for-the-badge&logo=codepen&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -59,7 +48,7 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG i
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,ts,nodejs,react,nextjs,mongodb,postgres,prisma" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,spring,ts,nodejs,react,nextjs,mongodb,postgres,docker" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
 </p>
 
@@ -70,9 +59,9 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG i
 <br>
 
 <div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=chijiokeokorji&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="ChijiokeOkorji's GitHub Stats" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en" alt="ChijiokeOkorji's" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="ChijiokeOkorji's Most Used Languages" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=srinivasa-pradeep&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" />
+  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en"  />
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" />
 </div>
 
 <hr>
@@ -91,9 +80,6 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG i
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [From Meh to Marvelous: The Ultimate Guide to Crafting a Killer GitHub Profile](https://medium.com/@chijiokeokorji/from-meh-to-marvelous-the-ultimate-guide-to-crafting-a-killer-github-profile-8dd3f6c6d602?source=rss-eafa38bd25b9------2)
-- [Cracking the Code: How Hashing Protects Your Online Logins](https://medium.com/@chijiokeokorji/cracking-the-code-how-hashing-protects-your-online-logins-b0452c4567de?source=rss-eafa38bd25b9------2)
-- [The Digital Renaissance Symphony: A Chorus of Generalists and Specialists](https://medium.com/@chijiokeokorji/the-digital-renaissance-symphony-a-chorus-of-generalists-and-specialists-2d4852155f26?source=rss-eafa38bd25b9------2)
-- [How Artificial Intelligence is Ushering in a New Renaissance Era](https://medium.com/@chijiokeokorji/how-artificial-intelligence-is-ushering-in-a-new-renaissance-era-5fec39db90ea?source=rss-eafa38bd25b9------2)
-- [Finding Light in the Darkness: Overcoming Burnout and Rediscovering Fulfillment](https://medium.com/@chijiokeokorji/finding-light-in-the-darkness-overcoming-burnout-and-rediscovering-fulfillment-87f96d3d79e8?source=rss-eafa38bd25b9------2)
+- [Can't We Just Do Things](https://medium.com/@writtenbysrini/cant-we-just-do-things-abf1a549124a)
+- [When Smarter Means Less - An Exhaustive Deep-Dive into AI’s Near Future — Inspired by the sharp insights of GKCS](https://medium.com/@writtenbysrini/when-smarter-means-less-db0776c1eb39)
 <!-- BLOG-POST-LIST:END -->
