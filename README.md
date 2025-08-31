@@ -11,8 +11,29 @@
 
 ### A Software Developer/Engineer passionate about building beautiful, functional and meaningful one.
 
-- 🌱 I’m currently learning **[System Design](https://roadmap.sh/system-design)**
-- 💬 Ask me about **Java, Node.js, React...or anything [here](https://github.com/ChijiokeOkorji/ChijiokeOkorji/issues)**
+<h3>Glad to see you here!</h3>
+
+<!-- About me -->
+<p>
+I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG iTech 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-world problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I’m currently learning **[System Design](https://roadmap.sh/system-design)** and working on Machine Learning 🤓.
+</p>
+
+<!-- Personal Stuffs -->
+<h3> Talking about personal stuffs:</h3>
+
+- 👨🏽‍💻 I’m currently working on something cool 😉
+
+- 🌱 I’m constantly learning something interesting! 
+
+- 💬 **[Ask me anything](https://linktr.ee/srinivasa_pradeep)** ! I am happy to help.
+
+<!-- Connect with me -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+
+<a href="https://linkedin.com/in/anbuchelvank" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://instagram.com/anbuchelvan_24" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/instagram.svg" alt="kmhmubin" height="30" width="30" /></a>
+</p>
 
 <br>
 
