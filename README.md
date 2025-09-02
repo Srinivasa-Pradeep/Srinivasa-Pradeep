@@ -25,7 +25,7 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG i
 
 - 🌱 I’m constantly learning something interesting!
 
-- I’m currently learning **[System Design](https://roadmap.sh/system-design)** and working on Machine Learning 🤓
+- 📑 I’m currently learning **[System Design](https://roadmap.sh/system-design)** and working on Machine Learning 🤓
 
 - 💬 **[Ask me anything](https://linktr.ee/srinivasa_pradeep)** ! I am happy to help.
 
