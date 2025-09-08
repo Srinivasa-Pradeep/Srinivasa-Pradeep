@@ -82,9 +82,6 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG i
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [The Mind That Solves](https://medium.com/@writtenbysrini/the-mind-that-solves-6e03f86ae245)
-- [Can't We Just Do Things](https://medium.com/@writtenbysrini/cant-we-just-do-things-abf1a549124a)
-- [When Smarter Means Less - An Exhaustive Deep-Dive into AI’s Near Future — Inspired by the sharp insights of GKCS](https://medium.com/@writtenbysrini/when-smarter-means-less-db0776c1eb39)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
