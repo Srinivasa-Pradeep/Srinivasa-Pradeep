@@ -82,6 +82,11 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG i
 
 ## 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Winner’s Mindset](https://medium.com/@writtenbysrini/the-winners-mindset-a75ebef35009?source=rss-d9b8d3a20f67------2)
+- [The Mind That Solves](https://medium.com/@writtenbysrini/the-mind-that-solves-6e03f86ae245?source=rss-d9b8d3a20f67------2)
+- [When Smarter Means Less](https://medium.com/@writtenbysrini/when-smarter-means-less-db0776c1eb39?source=rss-d9b8d3a20f67------2)
+- [Can’t We Just Do Things?](https://medium.com/@writtenbysrini/cant-we-just-do-things-abf1a549124a?source=rss-d9b8d3a20f67------2)
+- [Are We Being Grateful for What We Prayed For?](https://medium.com/@writtenbysrini/are-we-being-grateful-for-what-we-prayed-for-8c10a7f9de90?source=rss-d9b8d3a20f67------2)
 <!-- BLOG-POST-LIST:END -->
 
 <hr>
