@@ -9,35 +9,33 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Srinivasa+Pradeep!;" />
 </h1>
 
-### A Software Developer/Engineer passionate about building beautiful, functional and meaningful one.
+### A Software Developer/Engineer passionate about building beautiful, functional and meaningful solutions.
 
 <h3>Glad to see you here!</h3>
 
-<!-- About me -->
 <p>
-I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG iTech 🏛. I'm a passionate learner who's always willing to learn and work across technologies. I love to explore new technologies and try to solve real-world problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻.
+I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate 🎓 from PSG iTech 🏛. I'm a passionate learner, always eager to explore and work across technologies. I love solving real-world problems ✨ and enjoy guiding and mentoring newcomers 👨🏻‍💻.
 </p>
 
-<!-- Personal Stuffs -->
-<h3> Talking about personal stuffs:</h3>
+<h3>Talking about personal stuff:</h3>
 
-- 👨🏽‍💻 I’m currently working on something cool 😉
+- 👨🏻‍💻 I’m currently working on something cool 😉
 
-- 🌱 I’m constantly learning something interesting!
+- 🌱 I’m always learning something new and interesting!
 
 - 📑 I’m currently learning **[System Design](https://roadmap.sh/system-design)** and working on Machine Learning 🤓
 
-- 💬 **[Ask me anything](https://linktr.ee/srinivasa_pradeep)** ! I am happy to help.
+- 💬 **[Ask me anything](https://linktr.ee/srinivasa_pradeep)**! I’m happy to help.
 
 <div align="center">
   <a href="mailto:sspradeep2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/srinivasa-pradeep-s" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://medium.com/@writtenbysrini" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
 
@@ -91,9 +89,8 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering Grade🎓 from PSG i
 
 <hr>
 
-### Thanks for Visiting my GitHub Profile!
+### Thanks for Visiting My GitHub Profile!
 
-![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark)
-
-
-
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=dark" alt="Thank you quote"/>
+</div>
