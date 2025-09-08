@@ -89,6 +89,16 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate 🎓 from P
 
 <hr>
 
+<details open>
+
+  <summary>Currently listening 🎶</summary>
+  
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=7hn6i77pm11gpzncfg6h5dne5&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=7hn6i77pm11gpzncfg6h5dne5&cover_image=true&theme=novatorem"/>
+  </a>
+</details>
+
+
 ### Thanks for Visiting My GitHub Profile!
 
 <div align="center">
