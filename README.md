@@ -110,6 +110,6 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate 🎓 from P
 ### Thanks for Visiting My GitHub Profile!
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=github_dark" alt="Thank you quote" width="750" />
+  <img src="https://quotes-github-readme.vercel.app/api?border=true&theme=github_dark&type=horizontal&" alt="Thank you quote" width="640" />
 </div>
 
