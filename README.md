@@ -31,14 +31,14 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate 🎓 from P
   <a href="mailto:sspradeep2004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
- <a href="https://www.linkedin.com/in/srinivasa-pradeep-s" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/srinivasa_pradeep_/" target="_blank" rel="noopener noreferrer">
+   <a href="https://www.linkedin.com/in/srinivasa-pradeep-s" target="_blank"> 
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+   </a> 
+  <a href="https://leetcode.com/u/srinivasa_pradeep_/" target="_blank"> 
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://medium.com/@writtenbysrini" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+    <a href="https://medium.com/@writtenbysrini" target="_blank"> 
+      <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
 </div>
 
