@@ -61,7 +61,7 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate 🎓 from P
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=srinivasa-pradeep&theme=transparent&&count_private=true&show_icons=true&rank_icon=github&locale=en" />
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=chijiokeokorji&theme=transparent&count_private=true&border_radius=10&locale=en"  />
+  <img width=410 src="https://github-readme-streak-stats.herokuapp.com?user=srinivasa-pradeep&theme=transparent&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=EB6700&fire=FF9100" alt="GitHub Streak" />
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true" />
 </div>
 
