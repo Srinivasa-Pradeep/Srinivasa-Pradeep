@@ -51,10 +51,13 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate 🎓 from P
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="Badge of Srini" height="100" width="100" />
     </a>
     <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="Badge of Srini" height="100" width="100" />
+    </a>
+    <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="Badge of Srini" height="100" width="100" />
     </a>
     <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="Badge of Srini" height="100" width="100" />
+      <img align="center" src="https://leetcode.com/static/images/badges/2024/gif/2024-11.gif" alt="Badge of Srini" height="100" width="100" />
     </a>
     <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/others/2550.gif" alt="Badge of Srini" height="100" width="100" />
