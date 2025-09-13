@@ -64,6 +64,10 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate 🎓 from P
     </a>
   </p>
 </div>
+<a href="https://leetcode.com/u/srinivasa_pradeep_/" target="_blank">
+  <img src="Asset/leetcode-heatmap.png" alt="LeetCode Heatmap" width="600" style="border-radius:25px; box-shadow: 5px 5px 15px rgba(0,0,0,0.3);">
+</a>
+
 
 <hr>
 
