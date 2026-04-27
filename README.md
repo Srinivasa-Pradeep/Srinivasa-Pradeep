@@ -14,16 +14,16 @@
 <h3>Glad to see you here!</h3>
 
 <p>
-I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate 🎓 from PSG iTech 🏛. I'm a passionate learner, always eager to explore and work across technologies. I love solving real-world problems ✨ and enjoy guiding and mentoring newcomers 👨🏻‍💻.
+I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate from PSG iTech. An Avid learner, always eager to explore and work across technologies. I love solving real-world problems, and enjoy guiding and mentoring newcomers.
 </p>
 
-<h3>Talking about personal stuff:</h3>
+<!-- <h3>Talking about personal stuff:</h3>
 
 - 👨🏻‍💻 I’m currently working on something cool 😉
 
 - 🌱 I’m always learning something new and interesting!
 
-- 📑 I’m currently learning **[System Design](https://roadmap.sh/system-design)** and working on Machine Learning 🤓
+- 📑 I’m currently learning **[System Design](https://roadmap.sh/system-design)** and working on Machine Learning 🤓 -->
 
 - 💬 **[Ask me anything](https://linktr.ee/srinivasa_pradeep)**! I’m happy to help.
 
@@ -49,15 +49,15 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate 🎓 from P
   <p align="center">
     <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="Badge of Srini" height="100" width="100" />
-    </a>
-    <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/365_new.gif" alt="Badge of Srini" height="100" width="100" />
-    </a>
     <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/others/Quest_Math.gif" alt="Badge of Srini" height="100" width="100" />
-    </a>
+      </a>
       <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-200.gif" alt="Badge of Srini" height="100" width="100" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="Badge of Srini" height="100" width="100" />
+    </a>
+      </a>
+    <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
+      <img align="center" src="https://assets.leetcode.com/static_assets/others/2026_%E6%98%A5%E6%8B%9B.gif" alt="Badge of Srini" height="100" width="100" />
     </a>
     <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024.gif" alt="Badge of Srini" height="100" width="100" />
