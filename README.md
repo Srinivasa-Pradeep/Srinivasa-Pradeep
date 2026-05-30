@@ -6,7 +6,7 @@
 <img src="Asset/illustration.png" alt="Banner of a developer sitting in front of a desk">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Srinivasa+Pradeep!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FFA116&duration=4000&lines=Hi+There!+👋;+I'm+Srinivasa+Pradeep!;" />
 </h1>
 
 ### A Software Developer/Engineer passionate about building beautiful, functional and meaningful solutions.
