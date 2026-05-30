@@ -42,10 +42,7 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate from PSG iT
   </a>
 </div>
 
-<hr>
-
-<div align="center"> 
-  <h2 align="center">Leetcode Badges</h2>  
+## Leetcode Badges 
   <p align="center">
     <a href="https://leetcode.com/srinivasa_pradeep_/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/500_new.gif" alt="Badge of Srini" height="100" width="100" />
@@ -66,33 +63,38 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate from PSG iT
   </p>
 </div>
 
-<hr>
+## Tools I Use
+![Python](https://img.shields.io/badge/python-lang?style=for-the-badge&logo=python&logoColor=%233776AB&labelColor=black&color=black)
+![Java](https://img.shields.io/badge/java-lang?style=for-the-badge&logo=openjdk&logoColor=%23ED8B00&labelColor=black&color=black)
+![C](https://img.shields.io/badge/c-lang?style=for-the-badge&logo=c&logoColor=%23A8B9CC&labelColor=black&color=black)
+![Spring](https://img.shields.io/badge/spring-framework?style=for-the-badge&logo=spring&logoColor=%236DB33F&labelColor=black&color=black)
+![TypeScript](https://img.shields.io/badge/typescript-lang?style=for-the-badge&logo=typescript&logoColor=%233178C6&labelColor=black&color=black)
+![Node.js](https://img.shields.io/badge/node-js?style=for-the-badge&logo=nodedotjs&logoColor=%23339933&labelColor=black&color=black)
+![React](https://img.shields.io/badge/React-library?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=black&color=black)
+![Next.js](https://img.shields.io/badge/next.js-framework?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF&labelColor=black&color=black)
+![MongoDB](https://img.shields.io/badge/mongodb-db?style=for-the-badge&logo=mongodb&logoColor=%2347A248&labelColor=black&color=black)
+![PostgreSQL](https://img.shields.io/badge/postgres-db?style=for-the-badge&logo=postgresql&logoColor=%234169E1&labelColor=black&color=black)
+![Docker](https://img.shields.io/badge/docker-tool?style=for-the-badge&logo=docker&logoColor=%232496ED&labelColor=black&color=black)
+![HTML](https://img.shields.io/badge/html-mu?style=for-the-badge&logo=html5&logoColor=%23E34F26&labelColor=black&color=black)
+![CSS](https://img.shields.io/badge/css-ss?style=for-the-badge&logo=css3&logoColor=%231572B6&labelColor=black&color=black)
+![Sass](https://img.shields.io/badge/sass-ss?style=for-the-badge&logo=sass&logoColor=%23CC6699&labelColor=black&color=black)
+![Tailwind CSS](https://img.shields.io/badge/tailwind-css?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&labelColor=black&color=black)
+![JavaScript](https://img.shields.io/badge/javascript-lang?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E&labelColor=black&color=black)
+![Vue.js](https://img.shields.io/badge/vue-framework?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D&labelColor=black&color=black)
+![Redux](https://img.shields.io/badge/redux-lib?style=for-the-badge&logo=redux&logoColor=%23764ABC&labelColor=black&color=black)
+![D3.js](https://img.shields.io/badge/d3-js?style=for-the-badge&logo=d3dotjs&logoColor=%23F9A03F&labelColor=black&color=black)
+![Git](https://img.shields.io/badge/git-vc?style=for-the-badge&logo=git&logoColor=%23F05032&labelColor=black&color=black)
+![Postman](https://img.shields.io/badge/postman-tool?style=for-the-badge&logo=postman&logoColor=%23FF6C37&labelColor=black&color=black)
+![Figma](https://img.shields.io/badge/figma-design?style=for-the-badge&logo=figma&logoColor=%23F24E1E&labelColor=black&color=black)
 
-## 🛠️ Languages and Tools
+##  Stats and Contributions Graph
 
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,spring,ts,nodejs,react,nextjs,mongodb,postgres,docker" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,vue,redux,d3,git,postman,figma" />
-</p>
-
-<hr>
-
-## ⚡️ Stats
-
-<br>
-
-<div align=center>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=srinivasa-pradeep&theme=transparent&&count_private=true&show_icons=true&rank_icon=github&locale=en" />
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true" />
+<!-- <div align=center>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=srinivasa-pradeep&theme=transparent&&count_private=true&show_icons=true&rank_icon=github&locale=en" /> -->
+  <!-- <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=chijiokeokorji&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true" /> -->
  <img width=410 src="https://github-readme-streak-stats.herokuapp.com?user=srinivasa-pradeep&theme=transparent&short_numbers=true&date_format=j%20M%5B%20Y%5D&ring=EB6700&fire=FF9101" />
-  
-</div>
 
-<hr>
-
-## 🐍 My Contributions
+## 
 
 <div align="center">
   <picture>
@@ -103,10 +105,8 @@ I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate from PSG iT
 </div>
 
 
-<hr>
 
-
-## 📕 Latest Blog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Million-Dollar Mistake](https://medium.com/@writtenbysrini/the-million-dollar-mistake-2f6541cd157d?source=rss-d9b8d3a20f67------2)
 - [The Winner’s Mindset](https://medium.com/@writtenbysrini/the-winners-mindset-a75ebef35009?source=rss-d9b8d3a20f67------2)
