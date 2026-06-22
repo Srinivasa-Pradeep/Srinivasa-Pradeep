@@ -9,6 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FFA116&duration=4000&lines=Hi+There!+👋;+I'm+Srinivasa+Pradeep!;" />
 </h1>
 
+
 ### A Software Developer/Engineer passionate about building beautiful, functional and meaningful solutions.
 
 <h3>Glad to see you here!</h3>
