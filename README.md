@@ -28,7 +28,7 @@
 <h3>Glad to see you here!</h3>
 
 <p>
-I'm Srinivasa Pradeep S, a Computer Science and Engineering graduate from PSG iTech. An Avid learner, always eager to explore and work across technologies. I love solving real-world problems, and enjoy guiding and mentoring newcomers.
+I'm Srinivasa Pradeep, a Computer Science and Engineering graduate from PSG iTech. An Avid learner, always eager to explore and work across technologies. I love solving real-world problems, and enjoy guiding and mentoring newcomers.
 </p>
 
 <!-- <h3>Talking about personal stuff:</h3>
